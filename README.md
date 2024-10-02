@@ -9,3 +9,5 @@ Covered topics include:
 - Other deep learning model architectures (LSTM, GRU, and the Transformer)
 - Practical examples for NLP (text classification, sentiment analysis)
 
+Final project was to create predictive model for multiclass  classification sentiment analysis task.
+
